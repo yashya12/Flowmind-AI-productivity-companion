@@ -1,0 +1,6 @@
+{
+  "name": "FlowMind",
+  "description": "A life-context-aware AI productivity companion that merges work deadlines, personal commitments, energy rhythms, and long-term goals into one AI brain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
